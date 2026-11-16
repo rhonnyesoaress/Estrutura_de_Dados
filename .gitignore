@@ -1,0 +1,4 @@
+# Executáveis e objetos gerados na compilação
+*.exe
+*.o
+*.out
